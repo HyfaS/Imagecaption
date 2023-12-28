@@ -1,0 +1,181 @@
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.csprojAssemblyReference.cache
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.Properties.Resources.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_1_ImageUpload.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_2_ImageCropping.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Flip.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.csproj.GenerateResource.cache
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.csproj.CoreCompileInputs.cache
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\captionai.exe.config
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\captionai.exe
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\captionai.pdb
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.exe
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.pdb
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\AForge.dll
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\AForge.Imaging.dll
+E:\works\projects\dotnet\captionai\captionai\bin\Debug\AForge.Math.dll
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Results.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Rotate.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_VFlip.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.csproj.CopyComplete
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_4_Color.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_5_Binarization.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_6_HOG.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.D_1_ImageUpload.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.D_2_PyramidAnalysis.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.D_3_Final.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.Home.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.Login.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.T_7_SaveImages.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.Basepapge.resources
+E:\works\projects\dotnet\captionai\captionai\obj\Debug\captionai.s.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\bin\Debug\captionai.exe.config
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\bin\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\bin\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.csproj.AssemblyReference.cache
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.Basepapge.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.D_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.D_2_PyramidAnalysis.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.D_3_Final.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.Home.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.Login.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.Properties.Resources.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.s.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_2_ImageCropping.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Flip.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Results.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Rotate.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_VFlip.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_4_Color.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_5_Binarization.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_6_HOG.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.T_7_SaveImages.resources
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.csproj.GenerateResource.cache
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.csproj.CoreCompileInputs.cache
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.csproj.CopyComplete
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\Jithin Projects\captionai\captionai\obj\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\captionai.exe.config
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Blob.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Blob.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Blob.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.csproj.AssemblyReference.cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.Basepapge.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.CaptureImage.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.D_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.D_2_PyramidAnalysis.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.D_3_Final.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.Home.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.Login.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.Properties.Resources.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_2_ImageCropping.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Flip.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Results.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Rotate.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_VFlip.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_4_Color.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_5_Binarization.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_6_HOG.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.T_7_SaveImages.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.csproj.GenerateResource.cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.csproj.CoreCompileInputs.cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.csproj.CopyComplete
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.D3Final1.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption\captionai\captionai\obj\Debug\captionai.TrainingFinal.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.exe.config
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Basepapge.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.CaptureImage.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D3Final1.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_2_PyramidAnalysis.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_3_Final.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Home.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Login.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Properties.Resources.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.TrainingFinal.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_1_ImageUpload.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_2_ImageCropping.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Flip.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Results.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Rotate.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_VFlip.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_4_Color.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_5_Binarization.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_6_HOG.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_7_SaveImages.resources
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.GenerateResource.Cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.exe
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.AssemblyReference.cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.CoreCompileInputs.cache
+E:\YUVATECH2022\PROJECT\MCA_Marthoma\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.CopyComplete
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.exe.config
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.exe
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Basepapge.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.CaptureImage.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D3Final1.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_1_ImageUpload.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_2_PyramidAnalysis.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.D_3_Final.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Home.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Login.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.Properties.Resources.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.TrainingFinal.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_1_ImageUpload.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_2_ImageCropping.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Flip.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Results.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_Rotate.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_3_DataAugmentation_VFlip.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_4_Color.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_5_Binarization.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_6_HOG.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.T_7_SaveImages.resources
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.GenerateResource.Cache
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.exe
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\captionai.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.dll
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.dll
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.xml
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Blob.xml
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Project new\Image Caption(modified)\captionai\captionai\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.AssemblyReference.cache
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.SuggestedBindingRedirects.cache
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.CoreCompileInputs.cache
+D:\Project new\Image Caption(modified)\captionai\captionai\obj\Debug\captionai.csproj.CopyComplete
